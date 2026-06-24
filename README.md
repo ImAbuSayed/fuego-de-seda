@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú brillas más que las luces del club esta noche
+> Fuego de seda, mi nena, you know I want you closer
+> Me tienes loco con ese perfume de lujo y derroche
+> Bailando suave en la sombra, baby, you're taking over
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
